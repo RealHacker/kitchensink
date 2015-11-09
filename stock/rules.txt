@@ -1,0 +1,39 @@
+{"count": 238, "stats": {"down9": 2, "down3": 14, "up9": 32, "up3": 169, "stable": 21}, "conditions": {"T1Diff": 0, "T1Vibe": 18, "T2Vibe": 18, "T1High": 0}}
+{"count": 235, "stats": {"down9": 0, "down3": 32, "up9": 8, "up3": 170, "stable": 25}, "conditions": {"T1Diff": -5, "T2Vibe": 10, "T2Diff": -5, "T3Vibe": 10, "T1Vibe": 10}}
+{"count": 297, "stats": {"down9": 0, "down3": 18, "up9": 34, "up3": 224, "stable": 21}, "conditions": {"T1Diff": 0, "T2Vibe": 18, "T2Diff": -5, "T1Vibe": 18}}
+{"count": 247, "stats": {"down9": 0, "down3": 10, "up9": 32, "up3": 191, "stable": 14}, "conditions": {"T1Diff": 0, "T1Vibe": 18, "T2Diff": -5, "T1High": 0}}
+{"count": 207, "stats": {"down9": 0, "down3": 10, "up9": 25, "up3": 159, "stable": 13}, "conditions": {"T2High": 0, "T1Diff": 0, "T1Vibe": 18, "T2Diff": -5, "T1High": 0}}
+{"count": 247, "stats": {"down9": 0, "down3": 33, "up9": 20, "up3": 175, "stable": 19}, "conditions": {"T3Diff": 0, "T1Diff": 0, "T2Diff": -5, "T1Vibe": 18}}
+{"count": 238, "stats": {"down9": 2, "down3": 14, "up9": 32, "up3": 169, "stable": 21}, "conditions": {"goUpNDays": 0, "T1Diff": 0, "T1Vibe": 18, "T2Vibe": 18, "T1High": 0}}
+{"count": 297, "stats": {"down9": 0, "down3": 18, "up9": 34, "up3": 224, "stable": 21}, "conditions": {"goUpNDays": 0, "T1Diff": 0, "T2Vibe": 18, "T2Diff": -5, "T1Vibe": 18}}
+{"count": 247, "stats": {"down9": 0, "down3": 10, "up9": 32, "up3": 191, "stable": 14}, "conditions": {"goUpNDays": 0, "T1Diff": 0, "T1Vibe": 18, "T2Diff": -5, "T1High": 0}}
+{"count": 247, "stats": {"down9": 0, "down3": 33, "up9": 20, "up3": 175, "stable": 19}, "conditions": {"T3Diff": 0, "goUpNDays": 0, "T1Diff": 0, "T2Diff": -5, "T1Vibe": 18}}
+{"count": 1783, "stats": {"down9": 0, "down3": 0, "up9": 48, "up3": 25, "stable": 1710}, "conditions": {"goDownNDdays": 0, "T1Diff": 0}}
+{"count": 1783, "stats": {"down9": 0, "down3": 0, "up9": 48, "up3": 25, "stable": 1710}, "conditions": {"goDownNDdays": 0, "T1Diff": 0, "T1Vibe": 0}}
+{"count": 1783, "stats": {"down9": 0, "down3": 0, "up9": 48, "up3": 25, "stable": 1710}, "conditions": {"goDownNDdays": 0, "T1Diff": 0, "T2Vibe": 0, "T1Vibe": 0}}
+{"count": 1783, "stats": {"down9": 0, "down3": 0, "up9": 48, "up3": 25, "stable": 1710}, "conditions": {"goDownNDdays": 0, "T1Diff": 0, "T2Vibe": 0, "T3Vibe": 0, "T1Vibe": 0}}
+{"count": 1783, "stats": {"down9": 0, "down3": 0, "up9": 48, "up3": 25, "stable": 1710}, "conditions": {"goDownNDdays": 0, "T1Diff": 0, "T1High": 0}}
+{"count": 1783, "stats": {"down9": 0, "down3": 0, "up9": 48, "up3": 25, "stable": 1710}, "conditions": {"goDownNDdays": 0, "T1Diff": 0, "T1Vibe": 0, "T1High": 0}}
+{"count": 1783, "stats": {"down9": 0, "down3": 0, "up9": 48, "up3": 25, "stable": 1710}, "conditions": {"goDownNDdays": 0, "T1Diff": 0, "T1Vibe": 0, "T2Vibe": 0, "T1High": 0}}
+{"count": 1783, "stats": {"down9": 0, "down3": 0, "up9": 48, "up3": 25, "stable": 1710}, "conditions": {"T2High": 0, "goDownNDdays": 0, "T1Diff": 0, "T1High": 0}}
+{"count": 1783, "stats": {"down9": 0, "down3": 0, "up9": 48, "up3": 25, "stable": 1710}, "conditions": {"T2High": 0, "goDownNDdays": 0, "T1Diff": 0, "T1Vibe": 0, "T1High": 0}}
+{"count": 1783, "stats": {"down9": 0, "down3": 0, "up9": 48, "up3": 25, "stable": 1710}, "conditions": {"T2High": 0, "goDownNDdays": 0, "T1Diff": 0, "T3High": 0, "T1High": 0}}
+{"count": 1783, "stats": {"down9": 0, "down3": 0, "up9": 48, "up3": 25, "stable": 1710}, "conditions": {"goDownNDdays": 0, "T1Diff": 0, "T2Diff": 0}}
+{"count": 1783, "stats": {"down9": 0, "down3": 0, "up9": 48, "up3": 25, "stable": 1710}, "conditions": {"goDownNDdays": 0, "T1Diff": 0, "T2Diff": 0, "T1Vibe": 0}}
+{"count": 1783, "stats": {"down9": 0, "down3": 0, "up9": 48, "up3": 25, "stable": 1710}, "conditions": {"goDownNDdays": 0, "T1Diff": 0, "T2Vibe": 0, "T2Diff": 0, "T1Vibe": 0}}
+{"count": 1783, "stats": {"down9": 0, "down3": 0, "up9": 48, "up3": 25, "stable": 1710}, "conditions": {"goDownNDdays": 0, "T1Diff": 0, "T2Diff": 0, "T1High": 0}}
+{"count": 1783, "stats": {"down9": 0, "down3": 0, "up9": 48, "up3": 25, "stable": 1710}, "conditions": {"goDownNDdays": 0, "T1Diff": 0, "T1Vibe": 0, "T2Diff": 0, "T1High": 0}}
+{"count": 1783, "stats": {"down9": 0, "down3": 0, "up9": 48, "up3": 25, "stable": 1710}, "conditions": {"T2High": 0, "goDownNDdays": 0, "T1Diff": 0, "T2Diff": 0, "T1High": 0}}
+{"count": 1783, "stats": {"down9": 0, "down3": 0, "up9": 48, "up3": 25, "stable": 1710}, "conditions": {"T3Diff": 0, "goDownNDdays": 0, "T1Diff": 0, "T2Diff": 0}}
+{"count": 1783, "stats": {"down9": 0, "down3": 0, "up9": 48, "up3": 25, "stable": 1710}, "conditions": {"T3Diff": 0, "goDownNDdays": 0, "T1Diff": 0, "T2Diff": 0, "T1Vibe": 0}}
+{"count": 1783, "stats": {"down9": 0, "down3": 0, "up9": 48, "up3": 25, "stable": 1710}, "conditions": {"T3Diff": 0, "goDownNDdays": 0, "T1Diff": 0, "T2Diff": 0, "T1High": 0}}
+{"count": 1728, "stats": {"down9": 0, "down3": 2, "up9": 0, "up3": 12, "stable": 1714}, "conditions": {"goDownNDdays": 1, "T1Diff": 0, "T2Diff": 0}}
+{"count": 1727, "stats": {"down9": 0, "down3": 2, "up9": 0, "up3": 11, "stable": 1714}, "conditions": {"goDownNDdays": 1, "T1Diff": 0, "T2Diff": 0, "T1Vibe": 0}}
+{"count": 1727, "stats": {"down9": 0, "down3": 2, "up9": 0, "up3": 11, "stable": 1714}, "conditions": {"goDownNDdays": 1, "T1Diff": 0, "T2Vibe": 0, "T2Diff": 0, "T1Vibe": 0}}
+{"count": 1727, "stats": {"down9": 0, "down3": 2, "up9": 0, "up3": 11, "stable": 1714}, "conditions": {"goDownNDdays": 1, "T1Diff": 0, "T2Diff": 0, "T1High": 0}}
+{"count": 1727, "stats": {"down9": 0, "down3": 2, "up9": 0, "up3": 11, "stable": 1714}, "conditions": {"goDownNDdays": 1, "T1Diff": 0, "T1Vibe": 0, "T2Diff": 0, "T1High": 0}}
+{"count": 1727, "stats": {"down9": 0, "down3": 2, "up9": 0, "up3": 11, "stable": 1714}, "conditions": {"T2High": 0, "goDownNDdays": 1, "T1Diff": 0, "T2Diff": 0, "T1High": 0}}
+{"count": 1728, "stats": {"down9": 0, "down3": 2, "up9": 0, "up3": 12, "stable": 1714}, "conditions": {"T3Diff": 0, "goDownNDdays": 1, "T1Diff": 0, "T2Diff": 0}}
+{"count": 1727, "stats": {"down9": 0, "down3": 2, "up9": 0, "up3": 11, "stable": 1714}, "conditions": {"T3Diff": 0, "goDownNDdays": 1, "T1Diff": 0, "T2Diff": 0, "T1Vibe": 0}}
+{"count": 1727, "stats": {"down9": 0, "down3": 2, "up9": 0, "up3": 11, "stable": 1714}, "conditions": {"T3Diff": 0, "goDownNDdays": 1, "T1Diff": 0, "T2Diff": 0, "T1High": 0}}
+{"count": 252, "stats": {"down9": 0, "down3": 26, "up9": 8, "up3": 192, "stable": 26}, "conditions": {"goDownNDdays": 4, "T1Diff": -5, "T2Vibe": 0, "T3Vibe": 10, "T1Vibe": 10}}
